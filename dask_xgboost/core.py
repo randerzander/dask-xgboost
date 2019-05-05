@@ -6,7 +6,6 @@ import time
 import numpy as np
 import pandas as pd
 import cudf as gd
-from libgdf_cffi import libgdf
 from toolz import first, assoc
 from tornado import gen
 
